@@ -1,6 +1,9 @@
+import Home from "../../components/organisms/home/home"
+import "./home.css"
+
 const HomePage = () => {
     return (
-        <div>Home Page</div>
+        <Home />
     )
 }
 
